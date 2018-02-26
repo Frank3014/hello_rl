@@ -1,0 +1,17 @@
+1. introduce
+    This is a simple reinforcement learning implemented in c++.
+
+2. development environment
+    Ubuntu 16.04
+    gcc 5.4.0
+
+3. dependent libraries
+    ncurses : for FlappyBird display
+    sudo apt-get install ncurses-dev
+
+4. compile and run
+    make
+    ./flappy_bird
+
+5. note
+    3 hours can reach 3000 score.
